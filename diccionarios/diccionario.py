@@ -29,3 +29,7 @@ mi_diccionario.clear() #limpia todos los valores
 print (mi_diccionario)
 
 
+
+
+
+# palabras reservadas de SQL
